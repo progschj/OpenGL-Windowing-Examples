@@ -1,0 +1,5 @@
+OpenGL Windowing Basecode Collection
+------------------------------------
+
+This is a collection of OpenGL basecodes to illustrate window creation
+and OpenGL initialization using different windowing APIs/toolkits.
