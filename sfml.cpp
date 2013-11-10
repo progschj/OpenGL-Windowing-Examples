@@ -1,7 +1,8 @@
+// sfml: http://www.sfml-dev.org/
+
 #include <GL/glew.h>
 #include <SFML/Window.hpp>
 #include <SFML/OpenGL.hpp>
-
 
 #include <iostream>
 #include <string>

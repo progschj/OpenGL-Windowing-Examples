@@ -1,3 +1,5 @@
+// glwt: https://github.com/rikusalminen/glwt
+
 #include <GLXW/glxw.h>
 #include <GLWT/glwt.h>
 

@@ -1,3 +1,5 @@
+// sdl2: http://www.libsdl.org/
+
 #include <GL/gl3w.h>
 #include <SDL.h>
 
