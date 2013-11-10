@@ -45,7 +45,7 @@ int main() {
     int width = 640;
     int height = 480;
 
-    sf::Window window(sf::VideoMode(width, height), "OpenGL", sf::Style::Default, sf::ContextSettings(0,0,0,3,3));
+    sf::Window window(sf::VideoMode(width, height), "sfml", sf::Style::Default, sf::ContextSettings(0,0,0,3,3));
 
     // using glew since sfml doesn create a core context
     if(glewInit()) {
