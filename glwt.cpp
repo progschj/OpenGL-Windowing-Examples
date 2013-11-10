@@ -44,7 +44,7 @@ int main() {
     int width = 640;
     int height = 480;
 
-    GLWTConfig config = {0, 0, 0, 0, 0, 0, 0, 0, GLWT_API_OPENGL | GLWT_PROFILE_CORE, 3, 2};
+    GLWTConfig config = {0, 0, 0, 0, 0, 0, 0, 0, GLWT_API_OPENGL | GLWT_PROFILE_CORE, 3, 3};
 
     if(glwtInit(&config, error_callback, 0)) {
         std::cerr << "failed to init GLWT" << std::endl;
